@@ -1,5 +1,3 @@
-"use client";
-
 import About from "@/components/custom/about";
 import Contact from "@/components/custom/contact";
 import Faq from "@/components/custom/faq";
